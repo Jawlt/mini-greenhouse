@@ -1,0 +1,12 @@
+Sensors: 
+Temperature/Humidity Sesnsor
+Buttons
+Ultrasonic Sensor inplace of Water Level Sensor
+code in place of Real-Time-Clock (will use bluetooth module or buttons to set time)
+
+Actuators:
+Motor inplace of fans (will need a DC relay)
+LED in place of Lights
+LCD
+Heating Device (will need DC relay)
+Water Pump (will need DC relay)
